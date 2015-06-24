@@ -1,5 +1,12 @@
 # Blog2-ember
 
+ ### App created from tutorial - [Blog Tutorial with Ember.js using Ember CLI and Firebase](http://www.programwitherik.com/blog-tutorial-with-ember-js/)
+
+ 24 June 2015
+
+
+
+
 This README outlines the details of collaborating on this Ember application.
 A short introduction of this app could easily go here.
 
