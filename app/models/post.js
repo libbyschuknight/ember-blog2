@@ -6,6 +6,4 @@ export default DS.Model.extend({
   description: DS.attr("string"),
   author: DS.attr("string"),
   date: DS.attr("date")
-
-
 });
